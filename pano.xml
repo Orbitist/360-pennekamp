@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="5.2.5" apprev="15998" start="node6">
+  <panorama id="node22">
+    <input levelbiashidpi="0.400" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3689" width="3689" levelingroll="0" leveltilesize="510">
+      <level predecode="0" height="3689" preload="0" width="3689"/>
+      <level predecode="0" height="1844" preload="0" width="1844"/>
+      <level predecode="0" height="922" preload="0" width="922"/>
+      <level predecode="1" height="461" preload="1" width="461"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-60.1"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata description="" tags="Edited 360s" title="" comment="" info="" author="" longitude="" customnodeid="" latitude="" source="" datetime="12/2/18 1:39 PM" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1" border="1" height="20" backgroundalpha="1" textalpha="1" width="180" enabled="1" background="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627"/>
+      <hotspot id="Point01" description="" title="To Main Concession" target="" pan="89.7" tilt="-5.49" skinid="ht_node" url="{node7}"/>
+      <hotspot id="Point02" description="" title="To Cannon Beach" target="" pan="132.35" tilt="-0.36" skinid="ht_node" url="{node6}"/>
+      <hotspot id="Point03" description="" title="To Garden" target="" pan="-78.58" tilt="-2.13" skinid="ht_node" url="{node11}"/>
+      <hotspot id="Point04" description="" title="To Grove Trail" target="" pan="-164.15" tilt="2.9" skinid="ht_node" url="{node21}"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomout="0" enabled="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" contextfullscreen="0" sensitivity="8" simulatemass="1" lockedmouse="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" hideabout="0" rubberband="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelbiashidpi="0.400" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3680" width="3680" levelingroll="0" leveltilesize="510">
+      <level predecode="0" height="3680" preload="0" width="3680"/>
+      <level predecode="0" height="1840" preload="0" width="1840"/>
+      <level predecode="0" height="920" preload="0" width="920"/>
+      <level predecode="1" height="460" preload="1" width="460"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata description="" tags="Edited 360s" title="" comment="" info="" author="" longitude="" customnodeid="" latitude="" source="" datetime="12/2/18 1:25 PM" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1" border="1" height="20" backgroundalpha="1" textalpha="1" width="180" enabled="1" background="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627"/>
+      <hotspot id="Point01" description="" title="To Cannon Beach" target="" pan="56.31" tilt="-1.19" skinid="ht_node" url="{node6}"/>
+      <hotspot id="Point02" description="" title="To Boat Tours" target="" pan="-158.8" tilt="1.85" skinid="ht_node" url="{node14}"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomout="0" enabled="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" contextfullscreen="0" sensitivity="8" simulatemass="1" lockedmouse="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" hideabout="0" rubberband="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelbiashidpi="0.400" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3686" width="3686" levelingroll="0" leveltilesize="510">
+      <level predecode="0" height="3686" preload="0" width="3686"/>
+      <level predecode="0" height="1843" preload="0" width="1843"/>
+      <level predecode="0" height="921" preload="0" width="921"/>
+      <level predecode="1" height="460" preload="1" width="460"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata description="" tags="Edited 360s" title="" comment="" info="" author="" longitude="" customnodeid="" latitude="" source="" datetime="12/2/18 2:19 PM" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1" border="1" height="20" backgroundalpha="1" textalpha="1" width="180" enabled="1" background="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627"/>
+      <hotspot id="Point01" description="" title="To Visitor Center" target="" pan="-137.61" tilt="2.35" skinid="ht_node" url="{node22}"/>
+      <hotspot id="Point02" description="" title="To Kayak Landing" target="" pan="-18.9" tilt="-1.63" skinid="ht_node" url="{node12}"/>
+      <hotspot id="Point03" description="" title="To Grove Trail" target="" pan="171.77" tilt="2.25" skinid="ht_node" url="{node21}"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomout="0" enabled="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" contextfullscreen="0" sensitivity="8" simulatemass="1" lockedmouse="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" hideabout="0" rubberband="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input levelbiashidpi="0.400" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3656" width="3656" levelingroll="0" leveltilesize="510">
+      <level predecode="0" height="3656" preload="0" width="3656"/>
+      <level predecode="0" height="1828" preload="0" width="1828"/>
+      <level predecode="0" height="914" preload="0" width="914"/>
+      <level predecode="1" height="457" preload="1" width="457"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata description="" tags="Edited 360s" title="" comment="" info="" author="" longitude="" customnodeid="" latitude="" source="" datetime="12/2/18 1:33 PM" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1" border="1" height="20" backgroundalpha="1" textalpha="1" width="180" enabled="1" background="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627"/>
+      <hotspot id="Point01" description="" title="To Visitor Center" target="" pan="-80.01" tilt="0.25" skinid="ht_node" url="{node22}"/>
+      <hotspot id="Point02" description="" title="To Boat Tours" target="" pan="-153.63" tilt="3.65" skinid="ht_node" url="{node14}"/>
+      <hotspot id="Point03" description="" title="To Marina" target="" pan="124.39" tilt="2.99" skinid="ht_node" url="{node8}"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomout="0" enabled="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" contextfullscreen="0" sensitivity="8" simulatemass="1" lockedmouse="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" hideabout="0" rubberband="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node14">
+    <input levelbiashidpi="0.400" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3676" width="3676" levelingroll="0" leveltilesize="510">
+      <level predecode="0" height="3676" preload="0" width="3676"/>
+      <level predecode="0" height="1838" preload="0" width="1838"/>
+      <level predecode="0" height="919" preload="0" width="919"/>
+      <level predecode="1" height="459" preload="1" width="459"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata description="" tags="Edited 360s" title="" comment="" info="" author="" longitude="" customnodeid="" latitude="" source="" datetime="12/2/18 1:29 PM" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1" border="1" height="20" backgroundalpha="1" textalpha="1" width="180" enabled="1" background="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627"/>
+      <hotspot id="Point01" description="" title="To Visitor Center" target="" pan="168.19" tilt="2.95" skinid="ht_node" url="{node22}"/>
+      <hotspot id="Point02" description="" title="To the bridge" target="" pan="110.16" tilt="-3.42" skinid="ht_node" url="{node1}"/>
+      <hotspot id="Point03" description="" title="To the marina!" target="" pan="-136.63" tilt="0.26" skinid="ht_node" url="{node8}"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomout="0" enabled="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" contextfullscreen="0" sensitivity="8" simulatemass="1" lockedmouse="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" hideabout="0" rubberband="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node1">
+    <input levelbiashidpi="0.400" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3672" width="3672" levelingroll="0" leveltilesize="510">
+      <level predecode="0" height="3672" preload="0" width="3672"/>
+      <level predecode="0" height="1836" preload="0" width="1836"/>
+      <level predecode="0" height="918" preload="0" width="918"/>
+      <level predecode="1" height="459" preload="1" width="459"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata description="" tags="Edited 360s" title="" comment="" info="" author="" longitude="" customnodeid="" latitude="" source="" datetime="12/2/18 2:33 PM" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1" border="1" height="20" backgroundalpha="1" textalpha="1" width="180" enabled="1" background="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627"/>
+      <hotspot id="Point01" description="" title="To Boat Tours" target="" pan="95.33" tilt="-0.81" skinid="ht_node" url="{node14}"/>
+      <hotspot id="Point02" description="" title="To Far Beach" target="" pan="-99.78" tilt="-1.74" skinid="ht_node" url="{node10}"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomout="0" enabled="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" contextfullscreen="0" sensitivity="8" simulatemass="1" lockedmouse="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" hideabout="0" rubberband="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelbiashidpi="0.400" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3660" width="3660" levelingroll="0" leveltilesize="510">
+      <level predecode="0" height="3660" preload="0" width="3660"/>
+      <level predecode="0" height="1830" preload="0" width="1830"/>
+      <level predecode="0" height="915" preload="0" width="915"/>
+      <level predecode="1" height="457" preload="1" width="457"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata description="" tags="Edited 360s" title="" comment="" info="" author="" longitude="" customnodeid="" latitude="" source="" datetime="12/2/18 12:09 PM" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1" border="1" height="20" backgroundalpha="1" textalpha="1" width="180" enabled="1" background="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627"/>
+      <hotspot id="Point01" description="" title="To Boat Tours" target="" pan="24.65" tilt="-2.95" skinid="ht_node" url="{node14}"/>
+      <hotspot id="Point02" description="" title="To Camping Area" target="" pan="163.46" tilt="3.36" skinid="ht_node" url="{node5}"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomout="0" enabled="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" contextfullscreen="0" sensitivity="8" simulatemass="1" lockedmouse="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" hideabout="0" rubberband="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input levelbiashidpi="0.400" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3656" width="3656" levelingroll="0" leveltilesize="510">
+      <level predecode="0" height="3656" preload="0" width="3656"/>
+      <level predecode="0" height="1828" preload="0" width="1828"/>
+      <level predecode="0" height="914" preload="0" width="914"/>
+      <level predecode="1" height="457" preload="1" width="457"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata description="" tags="Edited 360s" title="" comment="" info="" author="" longitude="" customnodeid="" latitude="" source="" datetime="12/2/18 2:30 PM" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1" border="1" height="20" backgroundalpha="1" textalpha="1" width="180" enabled="1" background="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627"/>
+      <hotspot id="Point01" description="" title="To Cannon Beach" target="" pan="33.74" tilt="-2.46" skinid="ht_node" url="{node6}"/>
+      <hotspot id="Point02" description="" title="To Far Beach" target="" pan="127.53" tilt="-3.31" skinid="ht_node" url="{node10}"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomout="0" enabled="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" contextfullscreen="0" sensitivity="8" simulatemass="1" lockedmouse="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" hideabout="0" rubberband="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input levelbiashidpi="0.400" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3728" width="3728" levelingroll="0" leveltilesize="510">
+      <level predecode="0" height="3728" preload="0" width="3728"/>
+      <level predecode="0" height="1864" preload="0" width="1864"/>
+      <level predecode="0" height="932" preload="0" width="932"/>
+      <level predecode="1" height="466" preload="1" width="466"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata description="" tags="Edited 360s" title="" comment="" info="" author="" longitude="" customnodeid="" latitude="" source="" datetime="12/2/18 2:25 PM" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1" border="1" height="20" backgroundalpha="1" textalpha="1" width="180" enabled="1" background="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627"/>
+      <hotspot id="Point01" description="" title="To Cannon Beach" target="" pan="101.18" tilt="0.5" skinid="ht_node" url="{node6}"/>
+      <hotspot id="Point02" description="" title="To Far Beach Area" target="" pan="-152.58" tilt="0.13" skinid="ht_node" url="{node10}"/>
+      <hotspot id="Point03" description="" title="To the bridge" target="" pan="177.16" tilt="1.78" skinid="ht_node" url="{node1}"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomout="0" enabled="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" contextfullscreen="0" sensitivity="8" simulatemass="1" lockedmouse="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" hideabout="0" rubberband="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input levelbiashidpi="0.400" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3682" width="3682" levelingroll="0" leveltilesize="510">
+      <level predecode="0" height="3682" preload="0" width="3682"/>
+      <level predecode="0" height="1841" preload="0" width="1841"/>
+      <level predecode="0" height="920" preload="0" width="920"/>
+      <level predecode="1" height="460" preload="1" width="460"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata description="" tags="Edited 360s" title="" comment="" info="" author="" longitude="" customnodeid="" latitude="" source="" datetime="12/2/18 2:27 PM" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1" border="1" height="20" backgroundalpha="1" textalpha="1" width="180" enabled="1" background="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627"/>
+      <hotspot id="Point01" description="" title="Far Beach Area" target="" pan="84.57" tilt="0.17" skinid="ht_node" url="{node9}"/>
+      <hotspot id="Point02" description="" title="To the bridge" target="" pan="-155.3" tilt="1.28" skinid="ht_node" url="{node1}"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomout="0" enabled="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" contextfullscreen="0" sensitivity="8" simulatemass="1" lockedmouse="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" hideabout="0" rubberband="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node19">
+    <input levelbiashidpi="0.400" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3661" width="3661" levelingroll="0" leveltilesize="510">
+      <level predecode="0" height="3661" preload="0" width="3661"/>
+      <level predecode="0" height="1830" preload="0" width="1830"/>
+      <level predecode="0" height="915" preload="0" width="915"/>
+      <level predecode="1" height="457" preload="1" width="457"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata description="" tags="Edited 360s" title="" comment="" info="" author="" longitude="" customnodeid="" latitude="" source="" datetime="12/2/18 1:53 PM" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1" border="1" height="20" backgroundalpha="1" textalpha="1" width="180" enabled="1" background="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627"/>
+      <hotspot id="Point01" description="" title="To the Marina" target="" pan="145.21" tilt="4.82" skinid="ht_node" url="{node8}"/>
+      <hotspot id="Point02" description="" title="Walk the Trail!" target="" pan="16.51" tilt="-5.15" skinid="ht_node" url="{node15}"/>
+      <hotspot id="Point03" description="" title="To the campsites!" target="" pan="58.3" tilt="-4.48" skinid="ht_node" url="{node18}"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomout="0" enabled="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" contextfullscreen="0" sensitivity="8" simulatemass="1" lockedmouse="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" hideabout="0" rubberband="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node15">
+    <input levelbiashidpi="0.400" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3691" width="3691" levelingroll="0" leveltilesize="510">
+      <level predecode="0" height="3691" preload="0" width="3691"/>
+      <level predecode="0" height="1845" preload="0" width="1845"/>
+      <level predecode="0" height="922" preload="0" width="922"/>
+      <level predecode="1" height="461" preload="1" width="461"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata description="" tags="Edited 360s" title="" comment="" info="" author="" longitude="" customnodeid="" latitude="" source="" datetime="12/2/18 1:55 PM" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1" border="1" height="20" backgroundalpha="1" textalpha="1" width="180" enabled="1" background="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627"/>
+      <hotspot id="Point01" description="" title="To Tamarind Trailhead" target="" pan="159.75" tilt="3.27" skinid="ht_node" url="{node19}"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomout="0" enabled="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" contextfullscreen="0" sensitivity="8" simulatemass="1" lockedmouse="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" hideabout="0" rubberband="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelbiashidpi="0.400" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3672" width="3672" levelingroll="0" leveltilesize="510">
+      <level predecode="0" height="3672" preload="0" width="3672"/>
+      <level predecode="0" height="1836" preload="0" width="1836"/>
+      <level predecode="0" height="918" preload="0" width="918"/>
+      <level predecode="1" height="459" preload="1" width="459"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata description="" tags="Edited 360s" title="" comment="" info="" author="" longitude="" customnodeid="" latitude="" source="" datetime="12/2/18 2:05 PM" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1" border="1" height="20" backgroundalpha="1" textalpha="1" width="180" enabled="1" background="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627"/>
+      <hotspot id="Point01" description="" title="To camping entrance" target="" pan="28.11" tilt="-0.79" skinid="ht_node" url="{node5}"/>
+      <hotspot id="Point02" description="" title="To Group Camping" target="" pan="154.92" tilt="3.5" skinid="ht_node" url="{node18}"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomout="0" enabled="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" contextfullscreen="0" sensitivity="8" simulatemass="1" lockedmouse="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" hideabout="0" rubberband="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelbiashidpi="0.400" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3689" width="3689" levelingroll="0" leveltilesize="510">
+      <level predecode="0" height="3689" preload="0" width="3689"/>
+      <level predecode="0" height="1844" preload="0" width="1844"/>
+      <level predecode="0" height="922" preload="0" width="922"/>
+      <level predecode="1" height="461" preload="1" width="461"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata description="" tags="Edited 360s" title="" comment="" info="" author="" longitude="" customnodeid="" latitude="" source="" datetime="12/4/18 2:37 PM" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1" border="1" height="20" backgroundalpha="1" textalpha="1" width="180" enabled="1" background="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627"/>
+      <hotspot id="Point01" description="" title="To the Camping Area" target="" pan="-69.96" tilt="-0.23" skinid="ht_node" url="{node5}"/>
+      <hotspot id="Point02" description="" title="" target="_blank" pan="138.42" tilt="-1.3" skinid="ht_url" url=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomout="0" enabled="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" contextfullscreen="0" sensitivity="8" simulatemass="1" lockedmouse="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" hideabout="0" rubberband="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelbiashidpi="0.400" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3685" width="3685" levelingroll="0" leveltilesize="510">
+      <level predecode="0" height="3685" preload="0" width="3685"/>
+      <level predecode="0" height="1842" preload="0" width="1842"/>
+      <level predecode="0" height="921" preload="0" width="921"/>
+      <level predecode="1" height="460" preload="1" width="460"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata description="" tags="Edited 360s" title="" comment="" info="" author="" longitude="" customnodeid="" latitude="" source="" datetime="12/4/18 2:38 PM" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1" border="1" height="20" backgroundalpha="1" textalpha="1" width="180" enabled="1" background="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627"/>
+      <hotspot id="Point01" description="" title="To Campfire Circle" target="" pan="-100.58" tilt="0.94" skinid="ht_node" url="{node3}"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomout="0" enabled="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" contextfullscreen="0" sensitivity="8" simulatemass="1" lockedmouse="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" hideabout="0" rubberband="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelbiashidpi="0.400" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3651" width="3651" levelingroll="0" leveltilesize="510">
+      <level predecode="0" height="3651" preload="0" width="3651"/>
+      <level predecode="0" height="1825" preload="0" width="1825"/>
+      <level predecode="0" height="912" preload="0" width="912"/>
+      <level predecode="1" height="456" preload="1" width="456"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata description="" tags="Edited 360s" title="" comment="" info="" author="" longitude="" customnodeid="" latitude="" source="" datetime="12/2/18 2:07 PM" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1" border="1" height="20" backgroundalpha="1" textalpha="1" width="180" enabled="1" background="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627"/>
+      <hotspot id="Point01" description="" title="To Campfire Circle" target="" pan="-75.73" tilt="1.64" skinid="ht_node" url="{node3}"/>
+      <hotspot id="Point02" description="" title="Make your way to the marina!" target="" pan="-68.64" tilt="0.34" skinid="ht_node" url="{node8}"/>
+      <hotspot id="Point03" description="" title="To Camping Bathrooms" target="" pan="111.54" tilt="1.24" skinid="ht_node" url="{node2}"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomout="0" enabled="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" contextfullscreen="0" sensitivity="8" simulatemass="1" lockedmouse="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" hideabout="0" rubberband="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node21">
+    <input levelbiashidpi="0.400" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3686" width="3686" levelingroll="0" leveltilesize="510">
+      <level predecode="0" height="3686" preload="0" width="3686"/>
+      <level predecode="0" height="1843" preload="0" width="1843"/>
+      <level predecode="0" height="921" preload="0" width="921"/>
+      <level predecode="1" height="460" preload="1" width="460"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata description="" tags="Edited 360s" title="" comment="" info="" author="" longitude="" customnodeid="" latitude="" source="" datetime="12/2/18 1:44 PM" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1" border="1" height="20" backgroundalpha="1" textalpha="1" width="180" enabled="1" background="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627"/>
+      <hotspot id="Point01" description="" title="Walk the Grove Trail" target="" pan="-34.51" tilt="-1.14" skinid="ht_node" url="{node16}"/>
+      <hotspot id="Point02" description="" title="To Cannon Beach" target="" pan="130.43" tilt="-1.6" skinid="ht_node" url="{node6}"/>
+      <hotspot id="Point03" description="" title="To Visitor Center" target="" pan="101.48" tilt="2.12" skinid="ht_node" url="{node22}"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomout="0" enabled="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" contextfullscreen="0" sensitivity="8" simulatemass="1" lockedmouse="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" hideabout="0" rubberband="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node17">
+    <input levelbiashidpi="0.400" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3694" width="3694" levelingroll="0" leveltilesize="510">
+      <level predecode="0" height="3694" preload="0" width="3694"/>
+      <level predecode="0" height="1847" preload="0" width="1847"/>
+      <level predecode="0" height="923" preload="0" width="923"/>
+      <level predecode="1" height="461" preload="1" width="461"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata description="" tags="Edited 360s" title="" comment="" info="" author="" longitude="" customnodeid="" latitude="" source="" datetime="12/2/18 1:47 PM" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1" border="1" height="20" backgroundalpha="1" textalpha="1" width="180" enabled="1" background="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627"/>
+      <hotspot id="Point01" description="" title="Continue walking Grove Trail" target="" pan="-113.59" tilt="-6.42" skinid="ht_node" url="{node17}"/>
+      <hotspot id="Point02" description="" title="Back to Grove Trailhead" target="" pan="93.3" tilt="0.19" skinid="ht_node" url="{node21}"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomout="0" enabled="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" contextfullscreen="0" sensitivity="8" simulatemass="1" lockedmouse="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" hideabout="0" rubberband="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node16">
+    <input levelbiashidpi="0.400" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3692" width="3692" levelingroll="0" leveltilesize="510">
+      <level predecode="0" height="3692" preload="0" width="3692"/>
+      <level predecode="0" height="1846" preload="0" width="1846"/>
+      <level predecode="0" height="923" preload="0" width="923"/>
+      <level predecode="1" height="461" preload="1" width="461"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata description="" tags="Edited 360s" title="" comment="" info="" author="" longitude="" customnodeid="" latitude="" source="" datetime="12/2/18 1:49 PM" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1" border="1" height="20" backgroundalpha="1" textalpha="1" width="180" enabled="1" background="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627"/>
+      <hotspot id="Point01" description="" title="Back to Grove Trailhead" target="" pan="-93.07" tilt="1.17" skinid="ht_node" url="{node21}"/>
+      <hotspot id="Point02" description="" title="Continue walking the trail" target="" pan="111.44" tilt="1.03" skinid="ht_node" url="{node17}"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomout="0" enabled="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" contextfullscreen="0" sensitivity="8" simulatemass="1" lockedmouse="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" hideabout="0" rubberband="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node18">
+    <input levelbiashidpi="0.400" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3679" width="3679" levelingroll="0" leveltilesize="510">
+      <level predecode="0" height="3679" preload="0" width="3679"/>
+      <level predecode="0" height="1839" preload="0" width="1839"/>
+      <level predecode="0" height="919" preload="0" width="919"/>
+      <level predecode="1" height="459" preload="1" width="459"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata description="" tags="Edited 360s" title="" comment="" info="" author="" longitude="" customnodeid="" latitude="" source="" datetime="12/2/18 2:01 PM" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1" border="1" height="20" backgroundalpha="1" textalpha="1" width="180" enabled="1" background="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627"/>
+      <hotspot id="Point01" description="" title="To the Camping Area" target="" pan="-59.94" tilt="1.39" skinid="ht_node" url="{node2}"/>
+      <hotspot id="Point02" description="" title="Back to the Tamarind Trail" target="" pan="-30.93" tilt="-2.05" skinid="ht_node" url="{node19}"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" zoomoutpause="1" type="crossdissolve" blendtime="1" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomout="0" enabled="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" contextfullscreen="0" sensitivity="8" simulatemass="1" lockedmouse="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" hideabout="0" rubberband="0" contextprojections="0"/>
+  </panorama>
+</tour>
